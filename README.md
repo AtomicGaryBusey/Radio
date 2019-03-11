@@ -25,6 +25,7 @@ So here's some stuff you can use to just get Baofeng radios working. I live in t
 
 **Additional Information**
 * Details on the Baofeng USB cable situation: https://baofengtech.com/Programming-cable
+* If you do buy a cheap-ass cable (but don't do that, but if you choose poorly anyway), drivers that work can be found here: http://www.miklor.com/COM/UV_Drivers.php
 * The latest version of CHIRP can be found here: https://trac.chirp.danplanet.com/chirp_daily/LATEST/
 * FRS/GMRS frequency data can be found here: https://wiki.radioreference.com/index.php/FRS/GMRS_combined_channel_chart
 * USA FCC GMRS License details: https://www.fcc.gov/general-mobile-radio-service-gmrs
