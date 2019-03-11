@@ -1,6 +1,8 @@
 # Radio
 
-CSV files with radio make/model in name are intended to be used with CHIRP (https://trac.chirp.danplanet.com/chirp_daily/LATEST/)
+CSV files with radio make/model in name are intended to be used with CHIRP. 
+
+The latest version of CHIRP can be found here: https://trac.chirp.danplanet.com/chirp_daily/LATEST/
 
 FRS/GMRS frequency data can be found here: https://wiki.radioreference.com/index.php/FRS/GMRS_combined_channel_chart
 
